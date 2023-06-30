@@ -33,7 +33,7 @@ This project was developed using HTML, CSS, JSON,  & JavaScript.
 ![image](https://github.com/SaigeKrisanda/CS601-Fetch-JSON-ES6-Features/assets/133738778/25c81e4a-63ca-47ef-9a37-4fe544c41c71)
 
 ### URL to Run Site 
-
+https://cs601-fetch-es6.netlify.app/
 
 
 
