@@ -25,7 +25,7 @@ This project was developed using HTML, CSS, JSON,  & JavaScript.
 ### JavaScript
 ← `script.js`: Button Activation; JavaScript ES6 Features; 
 
-###JSON 
+### JSON 
 ← `degrees.json`: General JSON file that contains degree information 
 
 ### Webpage Layout 
