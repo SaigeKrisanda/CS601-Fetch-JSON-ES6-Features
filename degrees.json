@@ -1,0 +1,35 @@
+{
+    "schools": [ {
+        "school": "Boston University",
+        "program": "Software Development",
+        "type": "MS",
+        "location": "Massachusetts, USA",
+        "year Conferred": 2023
+      },
+  
+      {
+        "school": "University of Massachusetts Amherst",
+        "program": "Japanese",
+        "type": "BA",
+        "location": "Massachusetts, USA",
+        "year Conferred": 2017
+      },
+  
+      {
+        "school": "Kwasei Gakuin University",
+        "program": "Japanese",
+        "type": "Certificate",
+        "location": "Hyogo, Japan",
+        "year Conferred": 2016
+      },
+      
+      {
+        "school": "Hokkaido University",
+        "program": "Education",
+        "type": "Certificate",
+        "location": "Hokkaido, Japan",
+        "year Conferred": 2014
+      }
+    ]
+  }
+  
